@@ -1,0 +1,14 @@
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\bin\Debug\net9.0\MiniERP.exe
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\bin\Debug\net9.0\MiniERP.deps.json
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\bin\Debug\net9.0\MiniERP.runtimeconfig.json
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\bin\Debug\net9.0\MiniERP.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\bin\Debug\net9.0\MiniERP.pdb
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\MiniERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\MiniERP.AssemblyInfoInputs.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\MiniERP.AssemblyInfo.cs
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\MiniERP.csproj.CoreCompileInputs.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\MiniERP.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\refint\MiniERP.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\MiniERP.pdb
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\MiniERP.genruntimeconfig.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\github-projects\MiniERP\obj\Debug\net9.0\ref\MiniERP.dll
