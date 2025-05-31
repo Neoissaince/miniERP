@@ -8,18 +8,13 @@ ________________________________________
 •	Finance & Payments
 •	User & Role Management
 •	Smart Contracts for trustless automation (y)
-🏗️ Basic Architecture
-+--------------------+     +------------------+
-|   Web/Mobile UI    | --> |  Middleware/API  |
-+--------------------+     +------------------+
-                                  |
-        --------------------------+------------------------
-        |                         |                        |
-+------------------+   +-----------------+       +--------------------+
-|   Smart Contracts|   | Off-chain DB    |       |  Blockchain Network |
-| (Solidity/EVM)   |   | (e.g., MongoDB) |       | (Ethereum, Polygon) |
-+------------------+   +-----------------+       +--------------------+
-________________________________________
+
+    🏗️ Basic Architecture
+      Web/Mobile UI -->  Middleware/API
+                            |
+         Smart Contracts  Off-chain DB   Blockchain Network
+            (Solidity)      (SQL,MongoDB)   (Ethereum)
+      ________________________________________
 Layer	Tech Choices
 Frontend	Blazor
 Backend	 ASP.NET Core
